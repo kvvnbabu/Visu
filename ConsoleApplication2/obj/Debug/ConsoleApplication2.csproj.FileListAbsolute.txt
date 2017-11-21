@@ -1,0 +1,12 @@
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Nagendra\Personal\ConsoleApplication2\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Nagendra\Personal\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Nagendra\Personal\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Nagendra\Personal\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
